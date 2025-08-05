@@ -5,6 +5,12 @@
   
 # cargo
 
+Run the tests
+
+```
+cargo test
+```
+
 Build for production
 
 ```
